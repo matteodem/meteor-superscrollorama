@@ -1,0 +1,8 @@
+{
+    "name": "superscrollorama",
+    "description": "parallax library called \"superscrollorama\" repackaged for meteor",
+    "homepage": "https://github.com/matteodem/meteor-superscrollorama",
+    "author": "Matteo De Micheli",
+    "version": "0.3.8",
+    "git": "https://github.com/matteodem/meteor-superscrollorama.git"
+}
