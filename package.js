@@ -1,8 +1,12 @@
 Package.describe({
-    summary : "parallax library called \"superscrollorama\" repackaged for meteor"
+    "name" : "matteodem:superscrollorama",
+    "summary" : "parallax library called \"superscrollorama\" repackaged for meteor",
+    "version": "0.3.9",
+    "git": "https://github.com/matteodem/meteor-superscrollorama.git"
 });
 
 Package.on_use(function (api) {
+    api.versionsFrom('METEOR@0.9.0');
     api.use('jquery', 'client');
 
     api.add_files([
