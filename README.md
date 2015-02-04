@@ -2,7 +2,7 @@
 
 ## How to use
 ```
-mrt install superscrollorama
+meteor add matteodem:superscrollorama
 ```
 
 ## Official site + documentation
